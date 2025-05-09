@@ -202,3 +202,14 @@ body {
   .amazon-product .buy-button:hover {
     background: #d13545;
   }
+  
+  .amazon-button {
+    display: inline-block;
+    text-decoration: none;
+    background: #479dd3;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 20px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+  }
