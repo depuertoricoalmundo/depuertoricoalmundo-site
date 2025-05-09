@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://depuertoricoalmundo.com/sitemap.xml 
