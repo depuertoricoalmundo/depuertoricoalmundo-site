@@ -212,4 +212,6 @@ body {
     border-radius: 20px;
     font-weight: bold;
     transition: all 0.3s ease;
+    position: relative;
+    z-index: 2;
   }
